@@ -24,43 +24,14 @@
     </div>
 
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-sm navbar-light bg-light">
-        <div class="container-fluid">
-            <ul class="navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link" href="homepage.html">Home</a>
-                </li>
-
-                <!-- Batting Stats -->
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Batting Stats</a>
-                    <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="index.html">Old Project</a></li>
-                        <li><a class="dropdown-item" href="NotYetImplemented.html">TODO</a></li>
-                        <li><a class="dropdown-item" href="NotYetImplemented.html">TODO</a></li>
-                        <!-- Add more links here -->
-                    </ul>
-                </li>
-
-                <!-- Pitching Stats -->
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Pitching Stats</a>
-                    <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="NotYetImplemented.html">TODO</a></li>
-                        <li><a class="dropdown-item" href="NotYetImplemented.html">TODO</a></li>
-                        <li><a class="dropdown-item" href="NotYetImplemented.html">TODO</a></li>
-                        <!-- Add more links here -->
-                    </ul>
-                </li>
+    <div id="navbar"></div>
+    <script>
+        fetch('navbar.html')
+            .then(response => response.text())
+            .then(data => document.getElementById('navbar').innerHTML = data);
+    </script>
 
 
-                <!-- Change Above this -->
-                <li class="nav-item">
-                    <a class="nav-link" href="mailto:ari@glockners.net">Contact <i class="fas fa-envelope"></i></a>
-                </li>
-            </ul>
-        </div>
-    </nav>
 
 
     <div class="well panel-body">
