@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aecb9898-2a76-4951-b282-215a4a9ced25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TODO-List.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/NotYetImplemented.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/web-dev-p3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/web-dev-p3.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="JSX File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -57,6 +61,7 @@
     "Node.js.mlb-stats.js.executor": "Run",
     "Node.js.requestData.js.executor": "Run",
     "Node.js.requestPlayerData.js.executor": "Run",
+    "Node.js.server.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "javascript.nodejs.core.library.configured.version": "21.7.3",
@@ -75,6 +80,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -96,7 +102,7 @@
       <updated>1713657838046</updated>
       <workItem from="1713657838922" duration="9422000" />
       <workItem from="1713719834758" duration="2970000" />
-      <workItem from="1714245573144" duration="457000" />
+      <workItem from="1714245573144" duration="2804000" />
     </task>
     <servers />
   </component>
