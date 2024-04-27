@@ -1,0 +1,22 @@
+Batters:
+- Exit Exit Velocity
+- BABIP
+
+Batted Ball Profile:
+- GB%
+- FB%
+- LD% --> want higher number
+
+- Barrels/PA -->
+
+Plate Discipline:
+- Worry about Later
+
+Pitchers:
+- K%
+- BB%
+- K-BB%
+- GB%
+- Exit Velocity
+- SIERRA --> ERA estimator
+
