@@ -2,7 +2,7 @@
   "name": "web-dev-p3",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "homepage.html",
   "scripts": {
     "start": "node server.js"
   },
