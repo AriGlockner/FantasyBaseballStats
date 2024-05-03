@@ -20,3 +20,23 @@ Pitchers:
 - Exit Velocity
 - SIERRA --> ERA estimator
 
+A podcast list:
+- BB% (and underlying)
+- K% (and underlying)
+- O swing
+- Z swing
+- Z swing - O swing
+- contact%
+- SwStr%
+- Quality of contact:
+    - Barrel Rate
+    - Hard Hit Rate
+- Luck:
+    - BABIP
+    - HR/FB
+    - Sway direction stats:
+        - xBA -> agnostic of:
+        - GB%, FB%
+        - pull%, cent%, opp%
+- wRC+, bat X projected (and difference)
+- wRC+ rest of season (and difference)
